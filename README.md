@@ -1,4 +1,4 @@
 # cow
 
-1. cowvideo
+1. cow video
 2. cut cow image
